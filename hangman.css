@@ -1,0 +1,54 @@
+body {
+  background-color: black;
+
+}
+
+h1 {
+  font-size: 60px;
+  font-family: 1fantasy;
+  color: Red;
+}
+
+p {
+  color:red;
+}
+
+img {
+  width:400px;
+  length:800px;
+  float: right;
+}
+
+#myText {
+  width: 200px;
+  height: 50px;
+  float: left;
+  background-color: white;
+
+}
+
+
+#Letters A-K {
+  width:100px;
+  height: 45px;
+  margin: 60px;
+  padding: 40px;
+  border: 50px;
+  border-bottom-left-radius: 60px;
+
+}
+
+#Letters L-Z {
+  width:100px;
+  height: 45px;
+  margin: 60px;
+  padding: 40px;
+  border: 50px;
+
+}
+
+.Correct-letters {
+  text-decoration: underline;
+  float: left;
+
+}
